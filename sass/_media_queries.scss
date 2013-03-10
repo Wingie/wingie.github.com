@@ -1,0 +1,39 @@
+/* ==|== media queries ======================================================
+   EXAMPLE Media Query for Responsive Design.
+   This example overrides the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+@media only screen and (max-width: 55em) {
+  .box2 {
+    float: none;
+    padding: 0 0 1em;
+    width: 100%;
+  }
+
+  .middleSeparator:after {
+    display: none;
+  }
+}
+@media only screen and (max-width: 43em) {
+  body > header {
+    > h1, > h2 { display: block; }
+  }
+
+  .otherLinks { display: none; }
+}
+@media only screen and (min-width: 50em) {
+  body {
+    font-size: 1.3em;
+    padding: {
+      left: 2em;
+      right: 2em;
+    }
+
+    > header,
+    > [role=main] {
+      margin: 0 auto;
+      max-width: 1300px;
+    }
+  }
+  small { font-size: .75em; }
+}
