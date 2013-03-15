@@ -7,7 +7,7 @@
         <loc>http://wingie.github.com{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endfor %}
-    {% for post in site.pages %}
+    {% for post in site.posts %}
     <url>
         <loc>http://wingie.github.com{{ post.url | remove: 'index.html' }}</loc>
     </url>
