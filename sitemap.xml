@@ -4,12 +4,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for page in site.pages %}
     <url>
-        <loc>http://wingie.github.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>http://wingie.github.io{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endfor %}
     {% for post in site.posts %}
     <url>
-        <loc>http://wingie.github.com{{ post.url | remove: 'index.html' }}</loc>
+        <loc>http://wingie.github.io{{ post.url | remove: 'index.html' }}</loc>
     </url>
     {% endfor %}
 </urlset>

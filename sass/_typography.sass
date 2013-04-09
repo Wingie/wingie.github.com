@@ -1,0 +1,107 @@
+/* =============================================================================
+ * Typography
+ * ==========================================================================
+@import font_icons
+
+@font-face
+  font-family: 'Merriweather'
+  src: url("fonts/Merriweather-webfont.eot")
+  src: url("fonts/Merriweather-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/Merriweather-webfont.woff") format("woff"), url("fonts/Merriweather-webfont.ttf") format("truetype"), url("fonts/Merriweather-webfont.svg#MerriweatherRegular") format("svg")
+  font-weight: normal
+  font-style: normal
+
+
+@font-face
+  font-family: 'Merriweather'
+  src: url("fonts/Merriweather-Bold-webfont.eot")
+  src: url("fonts/Merriweather-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/Merriweather-Bold-webfont.woff") format("woff"), url("fonts/Merriweather-Bold-webfont.ttf") format("truetype"), url("fonts/Merriweather-Bold-webfont.svg#MerriweatherBold") format("svg")
+  font-weight: bold
+  font-style: normal
+
+
+@font-face
+  font-family: 'audimat'
+  src: url("fonts/audimat-bold-webfont.eot")
+  src: url("fonts/audimat-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/audimat-bold-webfont.woff") format("woff"), url("fonts/audimat-bold-webfont.ttf") format("truetype"), url("fonts/audimat-bold-webfont.svg#AUdimatBold") format("svg")
+  font-weight: bold
+  font-style: normal
+
+
+@font-face
+  font-family: 'audimat'
+  src: url("fonts/audimat-italic-webfont.eot")
+  src: url("fonts/audimat-italic-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/audimat-italic-webfont.woff") format("woff"), url("fonts/audimat-italic-webfont.ttf") format("truetype"), url("fonts/audimat-italic-webfont.svg#AUdimatItalic") format("svg")
+  font-weight: normal
+  font-style: italic, oblique
+
+
+@font-face
+  font-family: 'audimat'
+  src: url("fonts/audimat-regular-webfont.eot")
+  src: url("fonts/audimat-regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/audimat-regular-webfont.woff") format("woff"), url("fonts/audimat-regular-webfont.ttf") format("truetype"), url("fonts/audimat-regular-webfont.svg#AUdimatRegular") format("svg")
+  font-weight: normal
+  font-style: normal
+
+
+.audimat
+  font-family: audimat
+
+.sansSerif
+  font:
+    family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+    weight: 300
+
+body,
+.copyFont,
+.serif
+  font:
+    family: Merriweather
+  text-transform: none
+
+h1, h2, h3
+  font-family: audimat
+  font-weight: normal
+  margin: .5em 0
+
+h1
+  font-size: 210%
+
+h2
+  font-size: 185%
+
+h3
+  font-size: 160%
+
+.centeredCopy
+  @extend .audimat
+  a
+    @extend .blockCutType
+  text-align: center
+
+.quotation
+  border:
+    width: 0 0 0 10px
+    style: solid
+    color: rgba(255, 255, 255, 0.25)
+  color: rgba(255, 255, 255, 0.9)
+  font-family: sans-serif
+  padding-left: .5em
+  &.right, &.left
+    margin-top: 0
+    width: 40%
+  $space: 4%
+  &.left
+    border:
+      left-width: 0
+      right-width: 10px
+    margin-right: $space
+    padding:
+      left: 0
+      right: $space / 2
+  &.right
+    margin-left: $space
+    padding:
+      left: $space / 2
+      right: 0
+  &.big
+    @extend h3
