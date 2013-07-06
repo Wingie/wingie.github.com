@@ -113,7 +113,7 @@ One is the function decaration, and the other is the implementation. lets create
 }
 {% endhighlight %}
 
-Run the code, and you should see this magnificent piece of work. if you are too lazy, [Get the code here](https://github.com/Wingie/MacAppLearning/tree/status_bar_setup) to run the app exactly at this stage from Xcode.
+Run the code, and you should see this magnificent piece of work. if you are too lazy, [Get the code here](https://github.com/Wingie/DeskImage/tree/status_bar_setup) to run the app exactly at this stage from Xcode.
 
 ## To summarize
 
