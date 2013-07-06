@@ -3,7 +3,8 @@ layout: post
 title: "Coding ObjectiveC Apps on a Mac"
 description: "A N00bz Experiments with XCode. Part One - Objective C, the language of the Mac."
 category: Mac
-tags: []
+tags: [tutorial,OSX,Xcode]
+image: "/images/xcode.png"
 ---
 {% include JB/setup %}
 

@@ -4,6 +4,7 @@ title: "A minimal status bar OSX App"
 description: "A N00bz Experiments with XCode. Part Two: Alerts and Menus and stuff."
 category: Mac 
 tags: [tutorial,OSX,Xcode]
+image: "/images/xcode2.png"
 ---
 {% include JB/setup %}
 
