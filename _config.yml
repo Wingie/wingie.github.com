@@ -117,8 +117,8 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
   # RSS Feed addition https://github.com/snaptortoise/jekyll-rss-feeds
-  name: MarcoCarag.com
-  description: Marco Carag's blog about stuff he's into.
-  url: http://www.marcocarag.com
+  name: Wingie
+  description: Wingie's blog about stuff he's into.
+  url: http://www.wingie.github.io
 
 paginate: 4
