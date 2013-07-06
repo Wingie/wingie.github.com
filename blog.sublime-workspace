@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loa",
+				"loadTasks"
+			],
+			[
+				"is",
+				"is_ajax"
+			],
+			[
+				"next",
+				"next_page"
+			],
+			[
+				"curr",
+				"current_page_object"
+			],
+			[
+				"get",
+				"getNextPage"
+			],
+			[
+				"title",
+				"title_id"
+			],
+			[
+				"new_",
+				"new_num"
+			],
+			[
+				"miss",
+				"missing_asset_target"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"Ore",
+				"OrderItem"
+			],
+			[
+				"for",
+				"formatted_title"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"ad",
+				"added_by"
+			],
+			[
+				"target",
+				"target_id"
+			],
+			[
+				"asset_",
+				"asset_dom"
+			],
+			[
+				"asset",
+				"assetDel"
+			],
+			[
+				"ap",
+				"apnd_to"
+			],
+			[
+				"tas",
+				"tasks_container"
+			],
+			[
+				"tasks",
+				"tasks-content"
+			],
+			[
+				"file",
+				"filelist"
+			],
+			[
+				"no",
+				"notifArea"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"uplo",
+				"uploading"
+			],
+			[
+				"tit",
+				"title_obj"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"up",
+				"updateNotifArea"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mode",
+				"model_to_dict"
+			],
+			[
+				"proce",
+				"processing_stage"
+			],
+			[
+				"da",
+				"data-id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Assign",
+				"assigned_to"
+			],
+			[
+				"or",
+				"order_item"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"prov",
+				"provider"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"fil",
+				"filter_id"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"filte",
+				"filter_id"
+			],
+			[
+				"delE",
+				"delEntry"
+			],
+			[
+				"app",
+				"append_email"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"email",
+				"email_id"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"em",
+				"email_id"
+			],
+			[
+				"upda",
+				"updateShowSelection"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"dis",
+				"display-values"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"xls",
+				"xls_map"
+			],
+			[
+				"head",
+				"headings"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"li",
+				"limit_to"
+			],
+			[
+				"edi",
+				"edit_filter"
+			],
+			[
+				"res",
+				"results_by"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"ed",
+				"edit_filter"
+			],
+			[
+				"save",
+				"save_button"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"filter",
+				"filter_id"
+			],
+			[
+				"users",
+				"user_filters"
+			],
+			[
+				"cre",
+				"created_by"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"show",
+				"show_only"
+			],
+			[
+				"new",
+				"new_filter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 800.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/home_tasks.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/tasks.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/fileuploader.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/models.py",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/generic_requirements.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/forms.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/all.js",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0100-mediaasset_relation_order_item.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0089-order_item_assignment.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0096-hide_titles.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0099-default_order_filter.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/__init__.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/export/youtube.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/export/youtube_movie.py",
+		"/Library/Python/2.7/site-packages/django/conf/urls/__init__.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/s3.py",
+		"/Library/Python/2.7/site-packages/django/shortcuts/__init__.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/common.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/base.html",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/js/script.js",
+		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/css/main.css",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/title_helpers.py",
+		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/index.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_artwork.html",
+		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/upload.php",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_assets.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/tests.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/reports.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/order_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/home.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/custom_reporting.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/custom_reporting.js",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_provider.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/chosen.css",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/urls.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_service.html",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/mastering/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/mastering/models.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search",
+			"togReg",
+			"ShowOrHideTasks",
+			"        ",
+			"add_requirements_order_items.html",
+			"add_requirements.html",
+			"heading-row",
+			"heading-ropw",
+			"current_page",
+			"filter_items",
+			"task hom",
+			"/tasks",
+			"/tasksnn",
+			"/tasks",
+			"tasks-content",
+			"loading.",
+			"('');\n",
+			"title_id",
+			"populate_missing_assets",
+			"get_n_missing_assets",
+			"asset_deleter",
+			"with",
+			"Missing Assets",
+			"problem-titles",
+			"text-status ",
+			"stats",
+			"req_page_pref",
+			"asset_deleter",
+			"show_requirements_select",
+			"select-all-section",
+			"div",
+			"h4",
+			"tasks-wrapper",
+			"strong",
+			"OrderItem",
+			"MediaAsset",
+			"order",
+			"sub",
+			"territory",
+			"{",
+			"Art",
+			"Trailer",
+			"feature",
+			"art",
+			"Art",
+			"art",
+			"trailer",
+			"Trailer",
+			"trailer",
+			"feature",
+			"Feature",
+			"feature",
+			"<div class=\"feature-include\">\n            <p>Include Feature?\n            <span class=\"featureSelect\"> \n                <input type=\"radio\" name=\"featureSelect\" value=\"1\">Yes\n                <input type=\"radio\" name=\"featureSelect\" value=\"0\">No \n            </span>\n            </p>\n        </div>",
+			"div",
+			"label",
+			"span",
+			"checkbox",
+			"vehicle",
+			"dialog",
+			"netflix_id_popup",
+			"id_popup",
+			"res",
+			"}}",
+			"{{",
+			"\"<",
+			".tasks",
+			"Asset",
+			"Audit",
+			"p",
+			"apnd",
+			"Delivery",
+			"Promo",
+			"dra",
+			"show",
+			"totalProgress",
+			"0.3",
+			"f_dom",
+			"f_data_id",
+			"welcome-tpl",
+			"book",
+			"books",
+			";\n",
+			"zone",
+			"ASSET_TYPES",
+			"title_name",
+			"3",
+			"0.9",
+			"ForeignKey",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"upload",
+			"Upload",
+			"MediaAsset",
+			"assets",
+			"new",
+			"/new",
+			"new",
+			"titles",
+			"post",
+			"get_method_name",
+			"get_method_name\\\\\\\\\\",
+			"post",
+			"on_save_instance",
+			"Not a recognized image file",
+			"video",
+			"field-order-options",
+			"due_date_to",
+			"office",
+			"language",
+			"video_type",
+			"due_date_to",
+			"due_date_from",
+			"name=\"due_date_from\" ",
+			"\\",
+			"due_date_from",
+			"status",
+			"language",
+			"video_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" </"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tasks.",
+				"MetadataOrder/metadataorder/templates/tasks/tasks.html"
+			],
+			[
+				"cus",
+				"MetadataOrder/metadataorder/templates/home/custom_reporting.html"
+			],
+			[
+				"homemod",
+				"MetadataOrder/metadataorder/home/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/wingstonsharon/Dropbox/MacApps/macapps.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
