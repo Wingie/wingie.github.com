@@ -299,13 +299,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2013-07-06-on-a-date-with-cocoa.md",
+			"settings":
+			{
+				"buffer_size": 3170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4144,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 27.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -315,24 +343,12 @@
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"jqu",
 				"Snippet: jQuery ready function"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"Package Control: di",
 				"Package Control: Disable Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"key",
@@ -372,6 +388,23 @@
 	},
 	"file_history":
 	[
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/RegReplace/reg_replace.sublime-settings",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/reg_replace.sublime-settings",
+		"/Users/wingstonsharon/Dropbox/blog/config.rb",
+		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-07-05-coding-objectivec-apps-on-a-mac.md",
+		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-07-06-a-minimal-status-bar-osx-program.md",
+		"/Users/wingstonsharon/Dropbox/blog/index.html",
+		"/Users/wingstonsharon/Dropbox/blog/_includes/themes/marcocarag/page.html",
+		"/Users/wingstonsharon/Dropbox/blog/_includes/themes/marcocarag/post.html",
+		"/Users/wingstonsharon/Dropbox/blog/assets/themes/marcocarag/css/style.css",
+		"/Users/wingstonsharon/Dropbox/blog/_includes/JB/comments-providers/disqus",
+		"/Users/wingstonsharon/Dropbox/blog/_includes/JB/analytics-providers/google",
+		"/Users/wingstonsharon/Dropbox/blog/_config.yml",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/code_hightligt.sublime-snippet",
+		"/Users/wingstonsharon/Dropbox/blog/_layouts/page.html",
+		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-03-11-asimov-the-maestro.md",
+		"/Users/wingstonsharon/Dropbox/blog/resume.html",
+		"/Users/wingstonsharon/Dropbox/blog/_rake/ping.rake",
 		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_items.html",
 		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/home_tasks.html",
 		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html",
@@ -433,7 +466,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"<open folders>",
@@ -445,6 +478,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"paginator",
+			"curledShadow",
+			"marcocarag",
+			"marcocarag.com",
+			"me@marcocarag.com",
+			"background-image",
 			"search",
 			"togReg",
 			"ShowOrHideTasks",
@@ -566,13 +605,7 @@
 			"language",
 			"video_type",
 			"due_date_to",
-			"due_date_from",
-			"name=\"due_date_from\" ",
-			"\\",
-			"due_date_from",
-			"status",
-			"language",
-			"video_type"
+			"due_date_from"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -591,8 +624,63 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2013-07-06-on-a-date-with-cocoa.md",
+					"settings":
+					{
+						"buffer_size": 3170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 4144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4143,
+								4143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1406.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -667,7 +755,7 @@
 		[
 			[
 				"",
-				"/Users/wingstonsharon/Dropbox/MacApps/macapps.sublime-project"
+				"/Users/wingstonsharon/work/prem.sublime-project"
 			]
 		],
 		"width": 380.0
