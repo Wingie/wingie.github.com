@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I love my Watch. But It's the only thing i cant charge every night."
-description: "So i was searching for the samsung gear SDK and I cound't find it."
+description: "So i was searching for the samsung gear SDK and I cound't find it. "
 category: Mac 
 tags: [tutorial,OSX,Xcode]
 image: "/images/watch.jpg"
