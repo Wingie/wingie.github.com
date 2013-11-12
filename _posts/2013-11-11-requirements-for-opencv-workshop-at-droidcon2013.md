@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Requirements for OpenCV Workshop at Droidcon2013"
-description: ""
+description: "So the good news is that i've just been confirmed as a speaker for Droidcon 2013. Here are some notes for prospective attendees."
 category: 
 tags: []
 ---
-
-So the good news is that i've just been confirmed as a speaker for Droidcon 2013.
 
 If you are coming here from a google search investigating a particularly suspicious looking entry in the droidcon2013 speakers page, i've made this little note just for you!
 
