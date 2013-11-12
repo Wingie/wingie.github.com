@@ -4,20 +4,384 @@
 		"selected_items":
 		[
 			[
+				"order_",
+				"order_by"
+			],
+			[
+				"sor",
+				"sort_on"
+			],
+			[
+				"terr",
+				"territory"
+			],
+			[
+				"des",
+				"destinations"
+			],
+			[
+				"tit",
+				"title_id"
+			],
+			[
+				"terrir",
+				"territories"
+			],
+			[
+				"pro",
+				"process_all"
+			],
+			[
+				"sour",
+				"source_slug"
+			],
+			[
+				"B",
+				"BooleanField"
+			],
+			[
+				"custom",
+				"custom_variables	statement"
+			],
+			[
+				"provider_",
+				"provider_slug"
+			],
+			[
+				"prov",
+				"provider_slug"
+			],
+			[
+				"cus",
+				"custom_variables	statement"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"m",
+				"mip	IPAddressField (mip)"
+			],
+			[
+				"Goo",
+				"GoogleDisbursements"
+			],
+			[
+				"graph",
+				"graph_data"
+			],
+			[
+				"month",
+				"monthly_sum"
+			],
+			[
+				"G",
+				"GoogleDisbursements"
+			],
+			[
+				"auto",
+				"autoescape	autoescape"
+			],
+			[
+				"row_",
+				"row_headings"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"ajax",
+				"ajax  (function)"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"stat",
+				"status_class"
+			],
+			[
+				"curr",
+				"current_num"
+			],
+			[
+				"needed",
+				"needed_rows  (variable)"
+			],
+			[
+				"ol",
+				"old_chapter"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"curre",
+				"current_rows"
+			],
+			[
+				"Parse",
+				"parseInt"
+			],
+			[
+				"save",
+				"save_chapters"
+			],
+			[
+				"nee",
+				"needed_rows"
+			],
+			[
+				"progr",
+				"progress_holder"
+			],
+			[
+				"processi",
+				"processing_stage"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"chap",
+				"chapter_name"
+			],
+			[
+				"chapter",
+				"chaptering"
+			],
+			[
+				"task_",
+				"task_id"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"sea",
+				"search_term"
+			],
+			[
+				"Art",
+				"ArtworkRequirements"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"added",
+				"added_items"
+			],
+			[
+				"terri",
+				"territories"
+			],
+			[
+				"med",
+				"media_asset"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"pre",
+				"previous"
+			],
+			[
+				"repla",
+				"replaceWith"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"H",
+				"Highcharts=O"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"Conf",
+				"Conformed"
+			],
+			[
+				"proces",
+				"process_spreadsheet"
+			],
+			[
+				"cl",
+				"click  (function)"
+			],
+			[
+				"las",
+				"last"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"upload_",
+				"upload_date"
+			],
+			[
+				"cre",
+				"created_from"
+			],
+			[
+				"crea",
+				"created_from"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"uplo",
+				"uploaded_by"
+			],
+			[
+				"is_",
+				"is_ajax"
+			],
+			[
+				"meta",
+				"metadataorder"
+			],
+			[
+				"scroll",
+				"scrollTo  (function)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height  (function)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"funct",
+				"function  (keyword)"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"Orde",
+				"OrderItem"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"is",
+				"is_superuser"
+			],
+			[
+				"has",
+				"has_next"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tas",
+				"tasks_container"
+			],
+			[
+				"Ord",
+				"OrderNotes"
+			],
+			[
+				"hea",
+				"heading-row"
+			],
+			[
 				"loa",
 				"loadTasks"
 			],
 			[
-				"is",
-				"is_ajax"
-			],
-			[
 				"next",
 				"next_page"
-			],
-			[
-				"curr",
-				"current_page_object"
 			],
 			[
 				"get",
@@ -84,10 +448,6 @@
 				"apnd_to"
 			],
 			[
-				"tas",
-				"tasks_container"
-			],
-			[
 				"tasks",
 				"tasks-content"
 			],
@@ -98,22 +458,6 @@
 			[
 				"no",
 				"notifArea"
-			],
-			[
-				"mar",
-				"margin-top"
-			],
-			[
-				"uplo",
-				"uploading"
-			],
-			[
-				"tit",
-				"title_obj"
-			],
-			[
-				"data",
-				"data-id"
 			],
 			[
 				"up",
@@ -152,10 +496,6 @@
 				"main-content"
 			],
 			[
-				"prov",
-				"provider"
-			],
-			[
 				"se",
 				"services"
 			],
@@ -174,144 +514,16 @@
 			[
 				"fil",
 				"filter_id"
-			],
-			[
-				"Htt",
-				"HttpResponse"
-			],
-			[
-				"filte",
-				"filter_id"
-			],
-			[
-				"delE",
-				"delEntry"
-			],
-			[
-				"app",
-				"append_email"
-			],
-			[
-				"fie",
-				"fields"
-			],
-			[
-				"email",
-				"email_id"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"em",
-				"email_id"
-			],
-			[
-				"upda",
-				"updateShowSelection"
-			],
-			[
-				"fun",
-				"fun	Function"
-			],
-			[
-				"margin-",
-				"margin-top"
-			],
-			[
-				"dis",
-				"display-values"
-			],
-			[
-				"N",
-				"None"
-			],
-			[
-				"xls",
-				"xls_map"
-			],
-			[
-				"head",
-				"headings"
-			],
-			[
-				"re",
-				"request"
-			],
-			[
-				"li",
-				"limit_to"
-			],
-			[
-				"edi",
-				"edit_filter"
-			],
-			[
-				"res",
-				"results_by"
-			],
-			[
-				"ser",
-				"service"
-			],
-			[
-				"ed",
-				"edit_filter"
-			],
-			[
-				"save",
-				"save_button"
-			],
-			[
-				"pro",
-				"provider"
-			],
-			[
-				"filter",
-				"filter_id"
-			],
-			[
-				"users",
-				"user_filters"
-			],
-			[
-				"cre",
-				"created_by"
-			],
-			[
-				"fi",
-				"filter"
-			],
-			[
-				"show",
-				"show_only"
-			],
-			[
-				"new",
-				"new_filter"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "_posts/2013-07-06-on-a-date-with-cocoa.md",
+			"file": "_posts/2013-11-12-android-rant.md",
 			"settings":
 			{
-				"buffer_size": 3170,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 4144,
+				"buffer_size": 197,
 				"line_ending": "Unix"
 			}
 		}
@@ -319,17 +531,9 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
 			[
 				"inst",
 				"Package Control: Install Package"
@@ -341,6 +545,98 @@
 			[
 				"ins",
 				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"snipp aja",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mule",
+				"Snippet: MultipleChoiceField (fmuchoice)"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"liv",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"li",
+				"LiveReload: Help"
+			],
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"live ",
+				"LiveReload: Self test"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"unin",
+				"SublimeLinter: Disable Linting"
 			],
 			[
 				"jqu",
@@ -371,11 +667,16 @@
 				"Preferences: Settings - User"
 			]
 		],
-		"width": 800.0
+		"width": 575.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 160.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read());",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
 	},
 	"distraction_free":
 	{
@@ -388,77 +689,134 @@
 	},
 	"file_history":
 	[
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/RegReplace/reg_replace.sublime-settings",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/reg_replace.sublime-settings",
-		"/Users/wingstonsharon/Dropbox/blog/config.rb",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-07-05-coding-objectivec-apps-on-a-mac.md",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-07-06-a-minimal-status-bar-osx-program.md",
-		"/Users/wingstonsharon/Dropbox/blog/index.html",
-		"/Users/wingstonsharon/Dropbox/blog/_includes/themes/marcocarag/page.html",
-		"/Users/wingstonsharon/Dropbox/blog/_includes/themes/marcocarag/post.html",
-		"/Users/wingstonsharon/Dropbox/blog/assets/themes/marcocarag/css/style.css",
-		"/Users/wingstonsharon/Dropbox/blog/_includes/JB/comments-providers/disqus",
-		"/Users/wingstonsharon/Dropbox/blog/_includes/JB/analytics-providers/google",
-		"/Users/wingstonsharon/Dropbox/blog/_config.yml",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/code_hightligt.sublime-snippet",
-		"/Users/wingstonsharon/Dropbox/blog/_layouts/page.html",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-03-11-asimov-the-maestro.md",
-		"/Users/wingstonsharon/Dropbox/blog/resume.html",
-		"/Users/wingstonsharon/Dropbox/blog/_rake/ping.rake",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/home_tasks.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/tasks.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/fileuploader.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/models.py",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/generic_requirements.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/forms.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/all.js",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0100-mediaasset_relation_order_item.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0089-order_item_assignment.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0096-hide_titles.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0099-default_order_filter.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/__init__.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/export/youtube.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/exchange/export/youtube_movie.py",
-		"/Library/Python/2.7/site-packages/django/conf/urls/__init__.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/s3.py",
-		"/Library/Python/2.7/site-packages/django/shortcuts/__init__.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/common.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/base.html",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/js/script.js",
-		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/css/main.css",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/title_helpers.py",
-		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/index.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_artwork.html",
-		"/Users/wingstonsharon/work/Ajx-MultipleFileupload/upload.php",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_assets.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/tests.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/reports.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/order_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/home.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/custom_reporting.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/custom_reporting.js",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_provider.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/chosen.css",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/page_cc.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_destinations.html",
 		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/urls.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_service.html",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/title_helpers.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/destination.html",
+		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/getyoutube.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/home.html",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/utils.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/views.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/js/all.js",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/css/all.css",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/models.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/financials_script/models.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/urls.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/settings.py",
+		"/Users/wingstonsharon/work/iTunesStatements/itfin.sql",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/base.html",
+		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/sales/sales_reports.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_custom.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/base.html",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/provider_dropdown.html",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_section.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/views.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/youtube.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0172-item-is-completed.sql",
+		"/Users/wingstonsharon/work/iTunesStatements/requirements.txt",
+		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/utility_classes.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/youtube_graph.html",
+		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/financials/financials_reports.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/all.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/home_tasks.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/connector/client.py",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/js/exporting.js",
+		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_graph.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/settings.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/all.css",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/notes_popup.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/tasks.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/order.html",
+		"/Users/wingstonsharon/work/MetadataOrder/connector/server_modules/files.py",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0168-switch-barcodes.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/scripts/run_sql_tickets.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_audio.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/mastering/ingest.html",
 		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/mastering/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/mastering/models.py"
+		"/Users/wingstonsharon/work/MetadataOrder/connector/server_modules/video.py",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0159-video-extras.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0160-add-category-detail.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0154-quiver-aggregations.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title.html",
+		"/Users/wingstonsharon/work/MetadataOrder/mastering/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/many_to_many.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/single_page.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0152-adding-received-date-tasks.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_navigation.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/show_order_item.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0108-upload_date_allow_null.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/chaptering_task_grid.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/fileuploader.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/generic_requirements.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0145-add-dates-to-video.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_chaptering.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0141-video_last_known_location.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0139-task-def-abbreviation.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_assets.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/chaptering_form.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0136-new_video_fields.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/search.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/mule-uploader.js",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_service.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/add_service.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0132-artworkreqirement-service.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/asset.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_artwork.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0130-add-artworkreq-model.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0131-add-task-territories.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0129-add-color-mode-mediasset.sql",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/order_item_notes.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/assets.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/notes_detail_task.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/history_detail_task.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0126-adding-needs-final-file-task-def.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_table_row.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/page_sub.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/utility.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_cc.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/forms.py",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0116-adding_is_problem_field.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/history.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/notes_existing.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/jquery-ui-1.8.23.custom.css",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/history/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/s3.py",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0115-add-tasks-approved-to-order.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0114-itunes_rating_codes.sql",
+		"/Users/wingstonsharon/work/mule-uploader/mule-uploader.js",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-default-asset-filter.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/userprofile/views.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/userprofile/models.py",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/asset_items.html",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-muleupload-table.sql",
+		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-muleupload-table.sq;",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Library/Python/2.7/site-packages/django/db/models/__init__.py",
+		"/Library/Python/2.7/site-packages/django/shortcuts/__init__.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/decimal.py",
+		"/Library/Python/2.7/site-packages/django/db/models/fields/__init__.py",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/reports.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_page.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/title_navigation.html",
+		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/order_items.html",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/HTML (Django).sublime-settings",
+		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Djaneiro/Settings/HTML (Django).sublime-settings"
 	],
 	"find":
 	{
@@ -469,6 +827,19 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"MetadataOrder/",
+			"iTunesStatements/",
+			"MetadataOrder/",
+			"iTunesStatements/",
+			"MetadataOrder/",
+			"iTunesStatements/",
+			"iTunesStatements",
+			"MetadataOrder/",
+			"MetadataOrder/sql_tickets",
+			"MetadataOrder/",
+			"MetadataOrderr",
+			"/work",
+			"<open folders>,<open files>",
 			"<open folders>",
 			""
 		]
@@ -478,134 +849,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"paginator",
-			"curledShadow",
-			"marcocarag",
-			"marcocarag.com",
-			"me@marcocarag.com",
-			"background-image",
-			"search",
-			"togReg",
-			"ShowOrHideTasks",
-			"        ",
-			"add_requirements_order_items.html",
-			"add_requirements.html",
-			"heading-row",
-			"heading-ropw",
-			"current_page",
-			"filter_items",
-			"task hom",
-			"/tasks",
-			"/tasksnn",
-			"/tasks",
-			"tasks-content",
-			"loading.",
-			"('');\n",
-			"title_id",
-			"populate_missing_assets",
-			"get_n_missing_assets",
-			"asset_deleter",
-			"with",
-			"Missing Assets",
-			"problem-titles",
-			"text-status ",
-			"stats",
-			"req_page_pref",
-			"asset_deleter",
-			"show_requirements_select",
-			"select-all-section",
-			"div",
-			"h4",
-			"tasks-wrapper",
-			"strong",
-			"OrderItem",
-			"MediaAsset",
-			"order",
-			"sub",
+			"title_tvseason*network",
+			"title_tvseason.network",
+			"check_final_asset",
+			"Please add a finalized asset to this task before trying to change the status to final.",
+			"EDITED_FOR_INTERNET",
+			"task_cc.html",
+			"task_cc.hmtl",
+			"task_cc",
+			"count",
+			"single_page",
+			"No CC file?",
+			"EDITED_FOR_INTERNET",
+			"SORT_FIELDS",
+			"get_eta",
+			"ETA",
+			"eta",
+			"et",
+			"eta = ",
+			"Title(",
+			"SORT_FIELDS",
+			"sort_field",
+			"sort_desc",
+			"/?sort_field=due_date",
+			"due_date",
+			"sort_field",
+			"xls_to_response",
+			"Searching 523 files for \"xls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response",
+			"xls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response",
+			"xls_to_response",
+			"Destination(",
+			"destination",
+			"submit_destination",
+			"queryset_to_spreadsheet",
+			"sheet",
+			"wb_spreadsheet",
 			"territory",
-			"{",
-			"Art",
-			"Trailer",
-			"feature",
-			"art",
-			"Art",
-			"art",
-			"trailer",
-			"Trailer",
-			"trailer",
-			"feature",
-			"Feature",
-			"feature",
-			"<div class=\"feature-include\">\n            <p>Include Feature?\n            <span class=\"featureSelect\"> \n                <input type=\"radio\" name=\"featureSelect\" value=\"1\">Yes\n                <input type=\"radio\" name=\"featureSelect\" value=\"0\">No \n            </span>\n            </p>\n        </div>",
-			"div",
-			"label",
-			"span",
-			"checkbox",
-			"vehicle",
-			"dialog",
-			"netflix_id_popup",
-			"id_popup",
-			"res",
-			"}}",
-			"{{",
-			"\"<",
-			".tasks",
-			"Asset",
-			"Audit",
-			"p",
-			"apnd",
-			"Delivery",
-			"Promo",
-			"dra",
-			"show",
-			"totalProgress",
-			"0.3",
-			"f_dom",
-			"f_data_id",
-			"welcome-tpl",
-			"book",
-			"books",
-			";\n",
-			"zone",
-			"ASSET_TYPES",
-			"title_name",
-			"3",
-			"0.9",
-			"ForeignKey",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"upload",
-			"Upload",
-			"MediaAsset",
-			"assets",
-			"new",
-			"/new",
-			"new",
+			"on_list_records",
+			"list_template",
+			"title_destinations",
+			"edit edit-destination",
+			"destinations",
+			"return_titles",
+			"GoogleDisbursements",
+			" =",
+			"provider",
+			"source",
+			"print",
+			"sales",
+			"print",
+			"INSERT into sales_raw",
+			"INSERT into",
+			"is_google",
+			"on",
+			"sales_raw",
+			"source",
+			"custom-date",
+			"pickerOpts",
+			"start_date",
+			"TMP_FOLDER",
+			"force_",
+			"generate_custom_data",
+			"force_download",
+			"force_d",
+			"source",
+			"$('.loading').show()",
+			"$('.loading').show();",
+			"force_download",
+			"download_file_checkbox",
+			"loading.gif",
+			"graph",
+			"provider_slug",
+			"console",
+			"console.log",
+			"change_provider",
+			"provider_filter",
+			"sales_filter_form",
+			"pagination",
+			"{#",
+			"custom_filter",
+			"''",
+			"show_task",
+			"POST",
+			"provider_id",
+			"providers",
+			"home.html",
+			"no_provider",
+			"[0]",
+			"title",
+			"ajax_yt_graph",
 			"titles",
-			"post",
-			"get_method_name",
-			"get_method_name\\\\\\\\\\",
-			"post",
-			"on_save_instance",
-			"Not a recognized image file",
-			"video",
-			"field-order-options",
-			"due_date_to",
-			"office",
-			"language",
-			"video_type",
-			"due_date_to",
-			"due_date_from"
+			"youtube.html",
+			"youutube.html",
+			"home.html",
+			"8px",
+			"27",
+			"</li>",
+			"<li>",
+			"logo.png",
+			"/static/images/logo.png",
+			"<img id=\"logo\" src=\"/static/images/logo.png\">",
+			"weeks",
+			"find_provider_from_itunes",
+			"provider",
+			"title",
+			"financials_raw",
+			"provider",
+			"week",
+			"start_period",
+			"title",
+			"sales_raw",
+			"find_provider_from_itunes",
+			"dict_of_titles",
+			"provider",
+			"isoformat",
+			"m[0]",
+			"months",
+			"month",
+			"financials_raw",
+			"find_provider_from_itunes",
+			"dict_of_titles",
+			"provider",
+			"no_provider",
+			"providers",
+			"provider",
+			"de1dde",
+			"span",
+			"bottom",
+			"argument"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -613,6 +984,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"'',",
+			"_",
+			"",
 			" </"
 		],
 		"reverse": false,
@@ -629,18 +1003,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2013-07-06-on-a-date-with-cocoa.md",
+					"file": "_posts/2013-11-12-android-rant.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3170,
+						"buffer_size": 197,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								211,
-								211
+								197,
+								197
 							]
 						],
 						"settings":
@@ -649,34 +1024,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"settings":
-					{
-						"buffer_size": 4144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4143,
-								4143
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1406.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -715,14 +1062,19 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 112.0
-	},
-	"output.unsaved_changes":
+	"output.anypreter":
 	{
 		"height": 118.0
 	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 211.0
+	},
+	"project": "blog.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -733,6 +1085,242 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"order",
+				"MetadataOrder/metadataorder/templates/home/order_items.html"
+			],
+			[
+				"urls",
+				"MetadataOrder/metadataorder/urls.py"
+			],
+			[
+				"all",
+				"MetadataOrder/metadataorder/static/css/all.css"
+			],
+			[
+				"bas",
+				"iTunesStatements/webapps/financials/templates/base.html"
+			],
+			[
+				"home",
+				"iTunesStatements/webapps/financials/templates/home.html"
+			],
+			[
+				"_drop",
+				"iTunesStatements/webapps/financials/templates/provider_dropdown.html"
+			],
+			[
+				"itunesmode",
+				"iTunesStatements/webapps/financials/main_app/models.py"
+			],
+			[
+				"base",
+				"iTunesStatements/webapps/financials/templates/base.html"
+			],
+			[
+				"all.",
+				"iTunesStatements/webapps/financials/static/css/all.css"
+			],
+			[
+				"home.",
+				"iTunesStatements/webapps/financials/templates/home.html"
+			],
+			[
+				"sett",
+				"iTunesStatements/webapps/financials/settings.py"
+			],
+			[
+				"all.cs",
+				"iTunesStatements/webapps/financials/static/css/all.css"
+			],
+			[
+				"titleview",
+				"MetadataOrder/metadataorder/title/views.py"
+			],
+			[
+				"url",
+				"MetadataOrder/metadataorder/urls.py"
+			],
+			[
+				"orderview",
+				"MetadataOrder/metadataorder/order/views.py"
+			],
+			[
+				"title",
+				"MetadataOrder/metadataorder/title/title_helpers.py"
+			],
+			[
+				"ordermode",
+				"MetadataOrder/metadataorder/order/models.py"
+			],
+			[
+				"add_",
+				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
+			],
+			[
+				"taskmo",
+				"MetadataOrder/metadataorder/tasks/models.py"
+			],
+			[
+				"add",
+				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
+			],
+			[
+				"tasksview",
+				"MetadataOrder/metadataorder/tasks/views.py"
+			],
+			[
+				"titlemod",
+				"MetadataOrder/metadataorder/title/models.py"
+			],
+			[
+				"ingest",
+				"MetadataOrder/metadataorder/templates/mastering/ingest.html"
+			],
+			[
+				"masteringvi",
+				"MetadataOrder/mastering/views.py"
+			],
+			[
+				"taskmode",
+				"MetadataOrder/metadataorder/tasks/models.py"
+			],
+			[
+				"addreq",
+				"MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html"
+			],
+			[
+				"title_au",
+				"MetadataOrder/metadataorder/templates/title/title_audio.html"
+			],
+			[
+				"taskite",
+				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
+			],
+			[
+				"title_cha",
+				"MetadataOrder/metadataorder/templates/title/title_chaptering.html"
+			],
+			[
+				"title.",
+				"MetadataOrder/metadataorder/templates/title/title.html"
+			],
+			[
+				"view",
+				"MetadataOrder/metadataorder/tasks/views.py"
+			],
+			[
+				"edit_se",
+				"MetadataOrder/metadataorder/templates/home/edit_service.html"
+			],
+			[
+				"add_ser",
+				"MetadataOrder/metadataorder/templates/home/add_service.html"
+			],
+			[
+				"titleviews",
+				"MetadataOrder/metadataorder/title/views.py"
+			],
+			[
+				"mule",
+				"MetadataOrder/metadataorder/static/js/mule-uploader.js"
+			],
+			[
+				"asset",
+				"MetadataOrder/metadataorder/templates/title/asset.html"
+			],
+			[
+				"ass",
+				"MetadataOrder/metadataorder/templates/home/assets.html"
+			],
+			[
+				"singl",
+				"MetadataOrder/metadataorder/templates/tasks/single_page.html"
+			],
+			[
+				"all.c",
+				"MetadataOrder/metadataorder/static/css/all.css"
+			],
+			[
+				"task_",
+				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
+			],
+			[
+				"add_re",
+				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
+			],
+			[
+				"taskrow",
+				"MetadataOrder/metadataorder/templates/tasks/task_table_row.html"
+			],
+			[
+				"task",
+				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
+			],
+			[
+				"his",
+				"MetadataOrder/metadataorder/templates/title/history.html"
+			],
+			[
+				"asse",
+				"MetadataOrder/metadataorder/templates/home/assets.html"
+			],
+			[
+				"title_na",
+				"MetadataOrder/metadataorder/templates/home/title_navigation.html"
+			],
+			[
+				"repo",
+				"MetadataOrder/metadataorder/templates/home/reports.html"
+			],
+			[
+				"notes",
+				"MetadataOrder/metadataorder/templates/order/notes_existing.html"
+			],
+			[
+				"mode",
+				"MetadataOrder/metadataorder/title/models.py"
+			],
+			[
+				"views",
+				"MetadataOrder/metadataorder/title/views.py"
+			],
+			[
+				"mod",
+				"MetadataOrder/metadataorder/order/models.py"
+			],
+			[
+				"hometa",
+				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
+			],
+			[
+				"tasks",
+				"MetadataOrder/metadataorder/templates/tasks/tasks.html"
+			],
+			[
+				"note",
+				"MetadataOrder/metadataorder/templates/order/notes_popup.html"
+			],
+			[
+				"model",
+				"MetadataOrder/metadataorder/tasks/models.py"
+			],
+			[
+				"order_ite",
+				"MetadataOrder/metadataorder/templates/home/order_items.html"
+			],
+			[
+				"task_i",
+				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
+			],
+			[
+				"home_",
+				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
+			],
+			[
+				"home.h",
+				"MetadataOrder/metadataorder/templates/home/home.html"
+			],
 			[
 				"tasks.",
 				"MetadataOrder/metadataorder/templates/tasks/tasks.html"
@@ -755,15 +1343,29 @@
 		[
 			[
 				"",
-				"/Users/wingstonsharon/work/prem.sublime-project"
+				"~/Dropbox/Helixworks - Dev/helix.sublime-project"
 			]
 		],
 		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 211.0,
-	"status_bar_visible": true
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

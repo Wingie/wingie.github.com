@@ -8,7 +8,7 @@ tags: []
 
 So the good news is that i've just been confirmed as a speaker for Droidcon 2013.
 
-If you are coming here from a google search investigating a particularly suspicious looking entry in the droidcon2013 speakers page, i've made this little note just for you! so that you would be prepared in case you want to skip the boring workshop at 9am on a tuesday morning and come a little later for some of the other ones. (you should not miss the sessions though, try and get into them.. the organizers are like prepared for every eventuality. they even manage comic relief somehow..).
+If you are coming here from a google search investigating a particularly suspicious looking entry in the droidcon2013 speakers page, i've made this little note just for you!
 
 So if you are guys who've been attending some of the past workshops that were done by the same team in bangalore. I think you know the guys who work really hard on making these events a reality. [I've spoken at one of them before.](https://github.com/Wingie/AndroidOpenCV_Presentation). It should give you an idea of what to to expect.
 
@@ -18,11 +18,13 @@ Hmm i just tried to make that presentation a link to this post via a github page
 
 a quick look around and i find that the page can be accessed [here](http://wingie.github.io/AndroidOpenCV_Presentation/). maybe i should report this bug.. theres 5 minutes of my life that i'm not getting back
 
-So i'm planning for this to be a practical session. And since actually setting up opencCv for Android is as simple as following instruction [hidden within the free interweb](http://opencv.org/platforms/android.html), i thought we could make this a sort of interactive session.
+I'm planning (hopefully) for this to be a more-practical-than-theory session. And since actually setting up opencCv for Android is as simple as following instruction [hidden within the free interweb](http://opencv.org/platforms/android.html), i thought we could make this a sort of interactive session.
 
-So i'm assuming that a lot of developers who attend these sessions have some probably have unsolved problem haunting them from the past. Trust me, whatever the problem is.. openCV will have a solution for it. The library is not just about image processing examples anymore. I've started quite a few works of programming art (that are gathering dust somewhere in my dropbox) that use opencv. From text processing (treat it as a 1 Dimensional Signal), Sound (also 1D) and audio / video etc.. (you get the drift.)
+I'm assuming that a lot of developers who attend these sessions have some probably have unsolved problem haunting them from the past. Trust me, whatever the problem is.. openCV will have a solution for it. The library is not just about image processing examples anymore. I've started quite a few works of programming art (that are gathering dust somewhere in my dropbox) that use opencv. 
 
-So the session will be all excercise based. I'll be waiting 15 mins for you guys to solve the problem i've laid out. Like the first one will be to get both the openCV SDK and NDK hello world compiling.
+The trick is to treat everything as a signal. From text processing (a 1 Dimensional Signal), Sound (also 1D) and audio / video etc.. (you get the drift.) It has a hidden machine learning api that you can levergae from c/java or from any of your android application.
+
+Now, i don't want to bore people so the session will be all excercise based. I'll be waiting 15 mins for you guys to solve the problem i've laid out. Like the first one will be to get both the openCV SDK and NDK hello world compiling.
 
 If you want to play around with openCV, following the instructions given on a link on this page try and get to these files in your eclipse workspace.
 
