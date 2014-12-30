@@ -12,7 +12,7 @@ You would be forgiven for missing about the debut of my Android App on the app s
 
 [It's called RadioIndya](https://play.google.com/store/apps/details?id=com.wingie.myradio)
 
-{% img figure /images/app_1.png 300px 300px %}
+![alt text](/images/app_1.png "What Grinds my Gears.")
 
 I do reserve the right to change the name sometime.
 
@@ -22,8 +22,6 @@ An interesting feature that i built into it is a floating media player.
 
 Ooo right? It seemed kinda obvious to me. We have a platform at www.radioindya.com for audio content creators who want a private space for their audio content. 
 the app is to supplement our offerings onto the mobile environment also.
-
-
 
 Remember facebook messenger's chathead feature? those annoying bobbles of your friends visages that used to stay at the edge of your screen somewhere and let you do multitasking thingies with your smartphone whilst chatting with friends.
 
@@ -35,7 +33,7 @@ But in a nutshell, you have to make a service. and in that service you have to b
 
 i guess this is how Qslide Apps by LG work. There are quite a few apps that make use of this functionality.
 
-{% img figure /images/app_2.png 300px 300px %}
+![alt text](/images/app_2.png "What Grinds my Gears.")
 
 
 it all starts with me extending a Service class,
@@ -118,6 +116,6 @@ mWindowManager.updateViewLayout(mRootLayout, params);
 i added in two `touch` areas that can be used for pausing/playing and stopping the floating player.
 Also a progress bar to see music progress was also done.
 
-{% img figure /images/app_3.png 300px 300px %}
+![alt text](/images/app_3.png "What Grinds my Gears.")
 
 {% include JB/setup %}
