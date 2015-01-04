@@ -666,8 +666,8 @@ pre u,pre b,pre em,pre i {
 }
 
 .blockCutType,.centeredCopy a,.pagination a,.postCopy a,small a,figcaption a,.comments a,.blockCutType:visited,.centeredCopy a:visited,.pagination a:visited,.postCopy a:visited,small a:visited,figcaption a:visited,.comments a:visited {
-    color: #F4F4F4;
-    text-shadow: 0px 0px 19px #666,0 .06em 0 #999,0 .15em .2em rgba(0,0,0,0.75);
+    color: #30302E;
+    text-shadow: 2px 2px 10px rgba(187, 171, 171, 0.8),0 -5px 8px rgba(173, 168, 168, 1);
 }
 
 .blockCutType:active,.centeredCopy a:active,.pagination a:active,.postCopy a:active,small a:active,figcaption a:active,.comments a:active {
@@ -1206,8 +1206,8 @@ body>header>h2 {
 }
 
 .post h2 {
-    color: #F1F1F2;
-    text-shadow: 2px 2px 10px rgba(0,0,0,0.8),0 -5px 35px rgba(255,255,255,0.6);
+    color: #30302E;
+    text-shadow: 2px 2px 10px rgba(187, 171, 171, 0.8),0 -5px 8px rgba(173, 168, 168, 1);
 }
 
 .tags {
