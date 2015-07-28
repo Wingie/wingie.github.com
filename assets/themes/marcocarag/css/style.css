@@ -1485,4 +1485,11 @@ img {
    margin: 15px;
    display: block;
    left: 50%;
+   max-width: 376px;
+}
+
+.description{
+    margin:10px;
+    position: absolute;
+    max-width: 50%;
 }

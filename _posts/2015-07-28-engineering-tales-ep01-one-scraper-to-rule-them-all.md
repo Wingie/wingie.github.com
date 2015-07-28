@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ep01: One Scraper to Rule them all"
-description: ""
+description: "A post to see how i built scrapers for wingztv.com. Spiders are mean and ugly unless they are run by scrapy!"
 category: EngineeringTales
 tags: []
 image: "/images/spider.jpg"
