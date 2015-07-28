@@ -894,7 +894,7 @@ a:active {
 figure,.postImage {
     float:left;
     margin:0 1em .5em 0;
-    
+    max-width:200px
 }
 
 figure.right,.postImage.right {
