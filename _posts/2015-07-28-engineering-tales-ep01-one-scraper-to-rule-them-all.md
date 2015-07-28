@@ -15,7 +15,7 @@ nothing came of that discussion, and sometime later i came into possession of so
 a quick glance told me why the project had been abandoned to its fate on bitbucket. 
 
 
-{% img imageCenter /images/spider_list.png Ninja Attack! %}
+![Spiders](/images/spider_list.png "look a lot of spiders!")
 
 like holy crap.
 
