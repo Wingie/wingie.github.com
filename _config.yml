@@ -122,3 +122,4 @@ JB :
   url: http://www.wingie.github.io
 
 paginate: 8
+markdown: redcarpet
