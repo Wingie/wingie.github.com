@@ -4,590 +4,41 @@
 		"selected_items":
 		[
 			[
-				"order_",
-				"order_by"
+				"re",
+				"register"
 			],
 			[
-				"sor",
-				"sort_on"
-			],
-			[
-				"terr",
-				"territory"
-			],
-			[
-				"des",
-				"destinations"
-			],
-			[
-				"tit",
-				"title_id"
-			],
-			[
-				"terrir",
-				"territories"
-			],
-			[
-				"pro",
-				"process_all"
-			],
-			[
-				"sour",
-				"source_slug"
-			],
-			[
-				"B",
-				"BooleanField"
-			],
-			[
-				"custom",
-				"custom_variables	statement"
-			],
-			[
-				"provider_",
-				"provider_slug"
-			],
-			[
-				"prov",
-				"provider_slug"
-			],
-			[
-				"cus",
-				"custom_variables	statement"
+				"bac",
+				"background-color"
 			],
 			[
 				"if",
 				"if	if"
 			],
 			[
-				"try",
-				"try	Try/Except"
+				"video",
+				"video_url"
 			],
 			[
-				"start",
-				"start_date"
-			],
-			[
-				"margin",
-				"margin-left"
-			],
-			[
-				"m",
-				"mip	IPAddressField (mip)"
-			],
-			[
-				"Goo",
-				"GoogleDisbursements"
-			],
-			[
-				"graph",
-				"graph_data"
-			],
-			[
-				"month",
-				"monthly_sum"
-			],
-			[
-				"G",
-				"GoogleDisbursements"
-			],
-			[
-				"auto",
-				"autoescape	autoescape"
-			],
-			[
-				"row_",
-				"row_headings"
-			],
-			[
-				"remove",
-				"removeClass"
-			],
-			[
-				"file_",
-				"file_path"
-			],
-			[
-				"ajax",
-				"ajax  (function)"
-			],
-			[
-				"cur",
-				"cursor"
-			],
-			[
-				"stat",
-				"status_class"
-			],
-			[
-				"curr",
-				"current_num"
-			],
-			[
-				"needed",
-				"needed_rows  (variable)"
-			],
-			[
-				"ol",
-				"old_chapter"
-			],
-			[
-				"remo",
-				"removeClass"
-			],
-			[
-				"curre",
-				"current_rows"
-			],
-			[
-				"Parse",
-				"parseInt"
-			],
-			[
-				"save",
-				"save_chapters"
-			],
-			[
-				"nee",
-				"needed_rows"
-			],
-			[
-				"progr",
-				"progress_holder"
-			],
-			[
-				"processi",
-				"processing_stage"
-			],
-			[
-				"parse",
-				"parseInt"
-			],
-			[
-				"chap",
-				"chapter_name"
-			],
-			[
-				"chapter",
-				"chaptering"
-			],
-			[
-				"task_",
-				"task_id"
-			],
-			[
-				"tr",
-				"try	Try/Except"
-			],
-			[
-				"index",
-				"indexOf"
-			],
-			[
-				"sea",
-				"search_term"
-			],
-			[
-				"Art",
-				"ArtworkRequirements"
-			],
-			[
-				"data",
-				"dataType"
-			],
-			[
-				"added",
-				"added_items"
-			],
-			[
-				"terri",
-				"territories"
-			],
-			[
-				"med",
-				"media_asset"
-			],
-			[
-				"max-",
-				"max-height"
-			],
-			[
-				"pre",
-				"previous"
-			],
-			[
-				"repla",
-				"replaceWith"
-			],
-			[
-				"f",
-				"f	Anonymous Function"
-			],
-			[
-				"selected",
-				"selectedIndex"
-			],
-			[
-				"len",
-				"length"
-			],
-			[
-				"functio",
-				"function"
-			],
-			[
-				"H",
-				"Highcharts=O"
-			],
-			[
-				"dis",
-				"display"
-			],
-			[
-				"margin-",
-				"margin-left"
-			],
-			[
-				"visi",
-				"visibility"
-			],
-			[
-				"Conf",
-				"Conformed"
-			],
-			[
-				"proces",
-				"process_spreadsheet"
-			],
-			[
-				"cl",
-				"click  (function)"
-			],
-			[
-				"las",
-				"last"
-			],
-			[
-				"sett",
-				"settings"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"set",
-				"settings"
-			],
-			[
-				"obj",
-				"objects"
-			],
-			[
-				"slug",
-				"slugify"
-			],
-			[
-				"upload_",
-				"upload_date"
-			],
-			[
-				"cre",
-				"created_from"
-			],
-			[
-				"crea",
-				"created_from"
-			],
-			[
-				"Tr",
-				"True"
-			],
-			[
-				"uplo",
-				"uploaded_by"
-			],
-			[
-				"is_",
-				"is_ajax"
-			],
-			[
-				"meta",
-				"metadataorder"
-			],
-			[
-				"scroll",
-				"scrollTo  (function)"
-			],
-			[
-				"hei",
-				"height"
-			],
-			[
-				"he",
-				"height  (function)"
-			],
-			[
-				"back",
-				"background"
-			],
-			[
-				"funct",
-				"function  (keyword)"
-			],
-			[
-				"scr",
-				"script"
-			],
-			[
-				"import",
-				"important"
-			],
-			[
-				"Orde",
-				"OrderItem"
-			],
-			[
-				"resp",
-				"response"
-			],
-			[
-				"is",
-				"is_superuser"
-			],
-			[
-				"has",
-				"has_next"
-			],
-			[
-				"mar",
-				"margin-left"
-			],
-			[
-				"tas",
-				"tasks_container"
-			],
-			[
-				"Ord",
-				"OrderNotes"
-			],
-			[
-				"hea",
-				"heading-row"
-			],
-			[
-				"loa",
-				"loadTasks"
-			],
-			[
-				"next",
-				"next_page"
-			],
-			[
-				"get",
-				"getNextPage"
-			],
-			[
-				"title",
-				"title_id"
-			],
-			[
-				"new_",
-				"new_num"
-			],
-			[
-				"miss",
-				"missing_asset_target"
-			],
-			[
-				"P",
-				"POST"
-			],
-			[
-				"font-",
-				"font-weight"
-			],
-			[
-				"Ore",
-				"OrderItem"
-			],
-			[
-				"for",
-				"formatted_title"
-			],
-			[
-				"inde",
-				"indexOf"
-			],
-			[
-				"par",
-				"parse"
-			],
-			[
-				"exc",
-				"except"
-			],
-			[
-				"ad",
-				"added_by"
-			],
-			[
-				"target",
-				"target_id"
-			],
-			[
-				"asset_",
-				"asset_dom"
-			],
-			[
-				"asset",
-				"assetDel"
-			],
-			[
-				"ap",
-				"apnd_to"
-			],
-			[
-				"tasks",
-				"tasks-content"
-			],
-			[
-				"file",
-				"filelist"
-			],
-			[
-				"no",
-				"notifArea"
-			],
-			[
-				"up",
-				"updateNotifArea"
-			],
-			[
-				"fon",
-				"font-weight"
-			],
-			[
-				"mode",
-				"model_to_dict"
-			],
-			[
-				"proce",
-				"processing_stage"
-			],
-			[
-				"da",
-				"data-id"
-			],
-			[
-				"req",
-				"request"
-			],
-			[
-				"Assign",
-				"assigned_to"
-			],
-			[
-				"or",
-				"order_item"
-			],
-			[
-				"main",
-				"main-content"
-			],
-			[
-				"se",
-				"services"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"tet",
-				"text-align"
-			],
-			[
-				"def",
-				"default"
-			],
-			[
-				"fil",
-				"filter_id"
+				"date",
+				"datetime"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2014-11-26-android-radioindya.md",
-			"settings":
-			{
-				"buffer_size": 4846,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-07-05-coding-objectivec-apps-on-a-mac.md",
-			"settings":
-			{
-				"buffer_size": 5146,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_plugins/image_tag.rb",
-			"settings":
-			{
-				"buffer_size": 2004,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 4148,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Goals for 2015\n--------------\n\n\n1. Payments \n\neg : Square Wallet, Dwolla, Isis, Cover and your friend's blore wala app too.\n\n2. Wearables\n\neg : pebble, android wear samsung's crap\n\n3. E-ink Readers\n\neg: kindle, kobo glo, etc\n\n4. Home Entertainment\n\neg: SteamBox, XboxOne Mediacenter, Apple TV, Nexus TV, chromecast etc..\n\n5. Secure Communication (Email)\n\n\n\n",
-			"settings":
-			{
-				"buffer_size": 357,
-				"line_ending": "Unix",
-				"name": "Goals for 2015"
-			}
-		},
-		{
-			"contents": "The legent of Eli Monpresss\n---------------------------\n\n\nI'm not usually impressed with the badassery of a character, having dealt with the likes of Matrim Cathuon and Kvothe this year but this guy takes the cake. Even Lewis therin's title of \"Lord of the Morning and prince of the Dawn\" didn't come close to the feeling of awe i had when i first read Eli being called \"The Favorite.\"\n\nAnd it's not a title that Eli took for himself",
-			"settings":
-			{
-				"buffer_size": 433,
-				"line_ending": "Unix",
-				"name": "The legent of Eli Monpresss"
-			}
-		},
-		{
-			"contents": "\nunlock\nadb shell input touchscreen swipe 0 1000 10 10\n\nopen notif\nadb shell input touchscreen swipe 1000 10 10 10\n\nclose notif\nadb shell input touchscreen swipe 200 900 200 300\n\nrecents\nadb shell input touchscreen tap 800 1850\n\nroght swipe\nadb shell input touchscreen swipe 800 400 400 400\n\nleft swipe\nadb shell input touchscreen swipe 400 400 800 400\n\n\nbaclk\nadb shell input keyevent 4\n\n------\n\nclicks\n	\n\n1) (0,0) is top left corner.\n\n2) (maxX,0) is top right corner\n\n3) (0,maxY) is bottom left corner\n\n4) (maxX,maxY) is bottom right corner\n\ntop left\nadb shell input touchscreen tap 100 100\n\n\nwhatsapp\nadb shell input keyevent 4\nadb shell input touchscreen tap 900 1700\n\nfst contact\nadb shell input touchscreen tap 500 300\nadb shell input touchscreen tap 500 600\nadb shell input touchscreen tap 500 900\n\nadb shell ime set com.mymobiler.android/.keyboard.MobilerKeyboard\n\n",
-			"settings":
-			{
-				"buffer_size": 873,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 125.0,
+		"last_filter": "instal",
 		"selected_items":
 		[
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -595,137 +46,16 @@
 			[
 				"ins",
 				"Package Control: Install Package"
-			],
-			[
-				"read",
-				"Snippet: jQuery ready function"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"dis",
-				"Package Control: Disable Package"
-			],
-			[
-				"snipp aja",
-				"Snippet: jQuery AJAX call"
-			],
-			[
-				"",
-				"Bookmarks: Select All"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"mule",
-				"Snippet: MultipleChoiceField (fmuchoice)"
-			],
-			[
-				"ena",
-				"Package Control: Enable Package"
-			],
-			[
-				"disabl",
-				"Package Control: Disable Package"
-			],
-			[
-				"liv",
-				"Snippet: Insert livereload.js script"
-			],
-			[
-				"li",
-				"LiveReload: Help"
-			],
-			[
-				"enab",
-				"LiveReload: Enable/disable plug-ins"
-			],
-			[
-				"enabl",
-				"Package Control: Enable Package"
-			],
-			[
-				"di",
-				"LiveReload: Enable/disable plug-ins"
-			],
-			[
-				"live",
-				"LiveReload: Self test"
-			],
-			[
-				"live ",
-				"LiveReload: Self test"
-			],
-			[
-				"instl",
-				"Package Control: Install Package"
-			],
-			[
-				"instla",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: in",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"unin",
-				"SublimeLinter: Disable Linting"
-			],
-			[
-				"jqu",
-				"Snippet: jQuery ready function"
-			],
-			[
-				"Package Control: di",
-				"Package Control: Disable Package"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings - User"
-			],
-			[
-				"sett",
-				"Preferences: Settings - User"
-			],
-			[
-				"user",
-				"Preferences: Settings - User"
-			],
-			[
-				"setting",
-				"Preferences: Settings - Default"
-			],
-			[
-				"setti",
-				"Preferences: Settings - User"
 			]
 		],
-		"width": 575.0
+		"width": 449.0
 	},
 	"console":
 	{
-		"height": 160.0,
+		"height": 146.0,
 		"history":
 		[
-			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read());",
-			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -739,165 +69,56 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/wingstonsharon/Dropbox/blog",
-		"/Users/wingstonsharon/Dropbox/blog/_plugins",
-		"/Users/wingstonsharon/Dropbox/blog/_posts",
-		"/Users/wingstonsharon/Dropbox/blog/css"
+		"/Users/wingston/Dropbox/blog"
 	],
 	"file_history":
 	[
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-07-05-coding-objectivec-apps-on-a-mac.md",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-11-11-requirements-for-opencv-workshop-at-droidcon2013.md",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-11-12-android-rant.md",
-		"/Users/wingstonsharon/Dropbox/blog/_posts/2013-12-26-mango-people.md",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/page_cc.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_destinations.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/urls.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/title_helpers.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/destination.html",
-		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/getyoutube.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/home.html",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/utils.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/views.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/js/all.js",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/css/all.css",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/main_app/models.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/financials_script/models.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/urls.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/settings.py",
-		"/Users/wingstonsharon/work/iTunesStatements/itfin.sql",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/base.html",
-		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/sales/sales_reports.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_custom.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/base.html",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/provider_dropdown.html",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_section.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/views.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/youtube.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0172-item-is-completed.sql",
-		"/Users/wingstonsharon/work/iTunesStatements/requirements.txt",
-		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/utility_classes.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/youtube_graph.html",
-		"/Users/wingstonsharon/work/iTunesStatements/statement_scripts/financials/financials_reports.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/all.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/home_tasks.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/order/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/connector/client.py",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/static/js/exporting.js",
-		"/Users/wingstonsharon/work/iTunesStatements/webapps/financials/templates/sales_graph.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/settings.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/all.css",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/notes_popup.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/tasks.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/tasks/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/order.html",
-		"/Users/wingstonsharon/work/MetadataOrder/connector/server_modules/files.py",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0168-switch-barcodes.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/scripts/run_sql_tickets.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_audio.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/mastering/ingest.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/mastering/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/connector/server_modules/video.py",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0159-video-extras.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0160-add-category-detail.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0154-quiver-aggregations.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title.html",
-		"/Users/wingstonsharon/work/MetadataOrder/mastering/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/many_to_many.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/single_page.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0152-adding-received-date-tasks.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_navigation.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/show_order_item.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0108-upload_date_allow_null.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/chaptering_task_grid.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/fileuploader.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/generic_requirements.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0145-add-dates-to-video.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_chaptering.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0141-video_last_known_location.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/home/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0139-task-def-abbreviation.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_assets.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/chaptering_form.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0136-new_video_fields.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/search.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/js/mule-uploader.js",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/edit_service.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/add_service.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0132-artworkreqirement-service.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/asset.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_artwork.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0130-add-artworkreq-model.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0131-add-task-territories.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0129-add-color-mode-mediasset.sql",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/order_item_notes.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/assets.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/notes_detail_task.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/history_detail_task.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0126-adding-needs-final-file-task-def.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/task_table_row.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/tasks/page_sub.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/utility.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_cc.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/title/forms.py",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0116-adding_is_problem_field.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/history.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/order/notes_existing.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/static/css/jquery-ui-1.8.23.custom.css",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/history/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/etc/s3.py",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0115-add-tasks-approved-to-order.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0114-itunes_rating_codes.sql",
-		"/Users/wingstonsharon/work/mule-uploader/mule-uploader.js",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-default-asset-filter.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/userprofile/views.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/userprofile/models.py",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/asset_items.html",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-muleupload-table.sql",
-		"/Users/wingstonsharon/work/MetadataOrder/sql_tickets/0112-add-muleupload-table.sq;",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Library/Python/2.7/site-packages/django/db/models/__init__.py",
-		"/Library/Python/2.7/site-packages/django/shortcuts/__init__.py",
-		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/decimal.py",
-		"/Library/Python/2.7/site-packages/django/db/models/fields/__init__.py",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/wingstonsharon/Library/Application Support/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/reports.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/title/title_page.html",
-		"/Users/wingstonsharon/work/MetadataOrder/metadataorder/templates/home/title_navigation.html"
+		"/Users/wingston/Dropbox/blog/blog",
+		"/Users/wingston/Dropbox/code/AwesomeProject/android/app/src/main/java/com/awesomeproject/RNIntentModule.java",
+		"/Users/wingston/Dropbox/code/AwesomeProject/android/app/src/main/java/com/awesomeproject/RNIntent.java",
+		"/Users/wingston/Dropbox/code/AwesomeProject/README.md",
+		"/Users/wingston/Dropbox/code/AwesomeProject/index.android.js",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/items.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/management/commands/clusternews.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/media/assets/css/demo.css",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/tim/dashboard.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/base_test.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/news/video_detail.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/views.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/graph_api.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/graph.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/media/js/all.js",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/media/assets/js/app.js",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/templatetags/extras.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/news/video.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/channel.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/recruit.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/news/models.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/templates/new_homepage.html",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/urls.py",
+		"/Users/wingston/Dropbox/code/news-thingy/dailies/cypher_queries",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/settings.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/fabfile.py",
+		"/Users/wingston/Dropbox/code/news-thingy/chai queries",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/media/assets/js/demo.js",
+		"/Users/wingston/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/media/assets/css/light-bootstrap-dashboard.css",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/settings.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/spiders/etoi.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/spiders/eindianexpress.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/spiders/eht.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsscrapy/newsmix/middlewares/epaperimage.py",
+		"/Users/wingston/Dropbox/code/news-thingy/newsserver/common/models.py"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 158.0,
 		"where_history":
 		[
-			"MetadataOrder/",
-			"iTunesStatements/",
-			"MetadataOrder/",
-			"iTunesStatements/",
-			"MetadataOrder/",
-			"iTunesStatements/",
-			"iTunesStatements",
-			"MetadataOrder/",
-			"MetadataOrder/sql_tickets",
-			"MetadataOrder/",
-			"MetadataOrderr",
-			"/work",
-			"<open folders>,<open files>",
-			"<open folders>",
 			""
 		]
 	},
@@ -906,134 +127,60 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"rouge",
-			"highlighter",
-			"mark",
-			"sub",
-			"endhighlight",
-			"{% endhighlight %}\n",
-			"title_tvseason*network",
-			"title_tvseason.network",
-			"check_final_asset",
-			"Please add a finalized asset to this task before trying to change the status to final.",
-			"EDITED_FOR_INTERNET",
-			"task_cc.html",
-			"task_cc.hmtl",
-			"task_cc",
-			"count",
-			"single_page",
-			"No CC file?",
-			"EDITED_FOR_INTERNET",
-			"SORT_FIELDS",
-			"get_eta",
-			"ETA",
-			"eta",
-			"et",
-			"eta = ",
-			"Title(",
-			"SORT_FIELDS",
-			"sort_field",
-			"sort_desc",
-			"/?sort_field=due_date",
-			"due_date",
-			"sort_field",
-			"xls_to_response",
-			"Searching 523 files for \"xls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response",
-			"xls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response\nxls_to_response",
-			"xls_to_response",
-			"Destination(",
-			"destination",
-			"submit_destination",
-			"queryset_to_spreadsheet",
-			"sheet",
-			"wb_spreadsheet",
-			"territory",
-			"on_list_records",
-			"list_template",
-			"title_destinations",
-			"edit edit-destination",
-			"destinations",
-			"return_titles",
-			"GoogleDisbursements",
-			" =",
-			"provider",
-			"source",
-			"print",
-			"sales",
-			"print",
-			"INSERT into sales_raw",
-			"INSERT into",
-			"is_google",
-			"on",
-			"sales_raw",
-			"source",
-			"custom-date",
-			"pickerOpts",
-			"start_date",
-			"TMP_FOLDER",
-			"force_",
-			"generate_custom_data",
-			"force_download",
-			"force_d",
-			"source",
-			"$('.loading').show()",
-			"$('.loading').show();",
-			"force_download",
-			"download_file_checkbox",
-			"loading.gif",
-			"graph",
-			"provider_slug",
-			"console",
-			"console.log",
-			"change_provider",
-			"provider_filter",
-			"sales_filter_form",
-			"pagination",
-			"{#",
-			"custom_filter",
-			"''",
-			"show_task",
-			"POST",
-			"provider_id",
-			"providers",
-			"home.html",
-			"no_provider",
-			"[0]",
-			"title",
-			"ajax_yt_graph",
-			"titles",
-			"youtube.html",
-			"youutube.html",
-			"home.html",
-			"8px",
-			"27",
-			"</li>",
-			"<li>",
-			"logo.png",
-			"/static/images/logo.png",
-			"<img id=\"logo\" src=\"/static/images/logo.png\">",
-			"weeks",
-			"find_provider_from_itunes",
-			"provider",
-			"title",
-			"financials_raw",
-			"provider",
-			"week",
-			"start_period",
-			"title",
-			"sales_raw",
-			"find_provider_from_itunes",
-			"dict_of_titles",
-			"provider",
-			"isoformat",
-			"m[0]",
-			"months",
-			"month",
-			"financials_raw",
-			"find_provider_from_itunes",
-			"dict_of_titles",
-			"provider",
-			"no_provider"
+			"video_url",
+			"news",
+			"movie",
+			"_pressData",
+			"dataSource",
+			"_genRows",
+			"componentWillMount",
+			"renderRow",
+			"renderMovie",
+			"RNMailModule",
+			"RNMail",
+			"result",
+			"MOVIES",
+			"movies",
+			"                                        \n",
+			"small",
+			"epaperimage",
+			"EpaperItemLoader",
+			"epaper.models",
+			"epaper",
+			"epaper.models",
+			"epaper",
+			"epaper.models",
+			",\n",
+			"news",
+			"87CB16",
+			".sidebar[data-color=\"green\"]:after,",
+			"drop",
+			"block",
+			"video.html",
+			"TaxonomyList",
+			"video.html",
+			"VideoList",
+			"VideoEntry",
+			"url",
+			"youtube",
+			"VideoList",
+			"obj_keys",
+			"now",
+			"text",
+			"point",
+			"\n          ",
+			"Open",
+			"chart",
+			"TaxonomyList",
+			"context_processors.csrf",
+			"'django.core.context_processors.csrf',",
+			"csrf",
+			".sidebar .nav",
+			"87CB16",
+			"data-color",
+			"~/scrap/news-thingy/",
+			"/home/wingie/news-thingy/",
+			"pull_mysql"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1041,10 +188,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"'',",
-			"_",
-			"",
-			" </"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1055,576 +198,18 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2014-11-26-android-radioindya.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4792,
-								4792
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1443.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2013-07-05-coding-objectivec-apps-on-a-mac.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5146,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								612,
-								551
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_plugins/image_tag.rb",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2004,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1752,
-								1752
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4148,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								255,
-								255
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 357,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								357,
-								357
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "Goals for 2015",
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 433,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								433,
-								433
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "The legent of Eli Monpresss",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 873,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								671,
-								631
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "",
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 30.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 68.0
 	},
 	"layout":
 	{
@@ -1649,280 +234,114 @@
 		]
 	},
 	"menu_visible": true,
-	"output.anypreter":
-	{
-		"height": 118.0
-	},
-	"output.exec":
-	{
-		"height": 28.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"output.unsaved_changes":
-	{
-		"height": 211.0
-	},
+	"pinned_build_system": "",
 	"project": "blog.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"order",
-				"MetadataOrder/metadataorder/templates/home/order_items.html"
+				"chann",
+				"newsserver/templates/channel.html"
 			],
 			[
-				"urls",
-				"MetadataOrder/metadataorder/urls.py"
+				"cluster",
+				"newsserver/news/management/commands/clusternews.py"
 			],
 			[
-				"all",
-				"MetadataOrder/metadataorder/static/css/all.css"
+				"newsmixite",
+				"newsscrapy/newsmix/items.py"
 			],
 			[
-				"bas",
-				"iTunesStatements/webapps/financials/templates/base.html"
+				"extras",
+				"newsserver/news/templatetags/extras.py"
 			],
 			[
-				"home",
-				"iTunesStatements/webapps/financials/templates/home.html"
+				"base_",
+				"newsserver/templates/base_test.html"
 			],
 			[
-				"_drop",
-				"iTunesStatements/webapps/financials/templates/provider_dropdown.html"
-			],
-			[
-				"itunesmode",
-				"iTunesStatements/webapps/financials/main_app/models.py"
-			],
-			[
-				"base",
-				"iTunesStatements/webapps/financials/templates/base.html"
-			],
-			[
-				"all.",
-				"iTunesStatements/webapps/financials/static/css/all.css"
-			],
-			[
-				"home.",
-				"iTunesStatements/webapps/financials/templates/home.html"
-			],
-			[
-				"sett",
-				"iTunesStatements/webapps/financials/settings.py"
-			],
-			[
-				"all.cs",
-				"iTunesStatements/webapps/financials/static/css/all.css"
-			],
-			[
-				"titleview",
-				"MetadataOrder/metadataorder/title/views.py"
-			],
-			[
-				"url",
-				"MetadataOrder/metadataorder/urls.py"
-			],
-			[
-				"orderview",
-				"MetadataOrder/metadataorder/order/views.py"
-			],
-			[
-				"title",
-				"MetadataOrder/metadataorder/title/title_helpers.py"
-			],
-			[
-				"ordermode",
-				"MetadataOrder/metadataorder/order/models.py"
-			],
-			[
-				"add_",
-				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
-			],
-			[
-				"taskmo",
-				"MetadataOrder/metadataorder/tasks/models.py"
-			],
-			[
-				"add",
-				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
-			],
-			[
-				"tasksview",
-				"MetadataOrder/metadataorder/tasks/views.py"
-			],
-			[
-				"titlemod",
-				"MetadataOrder/metadataorder/title/models.py"
-			],
-			[
-				"ingest",
-				"MetadataOrder/metadataorder/templates/mastering/ingest.html"
-			],
-			[
-				"masteringvi",
-				"MetadataOrder/mastering/views.py"
-			],
-			[
-				"taskmode",
-				"MetadataOrder/metadataorder/tasks/models.py"
-			],
-			[
-				"addreq",
-				"MetadataOrder/metadataorder/templates/tasks/add_requirements_order_items.html"
-			],
-			[
-				"title_au",
-				"MetadataOrder/metadataorder/templates/title/title_audio.html"
-			],
-			[
-				"taskite",
-				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
-			],
-			[
-				"title_cha",
-				"MetadataOrder/metadataorder/templates/title/title_chaptering.html"
-			],
-			[
-				"title.",
-				"MetadataOrder/metadataorder/templates/title/title.html"
-			],
-			[
-				"view",
-				"MetadataOrder/metadataorder/tasks/views.py"
-			],
-			[
-				"edit_se",
-				"MetadataOrder/metadataorder/templates/home/edit_service.html"
-			],
-			[
-				"add_ser",
-				"MetadataOrder/metadataorder/templates/home/add_service.html"
-			],
-			[
-				"titleviews",
-				"MetadataOrder/metadataorder/title/views.py"
-			],
-			[
-				"mule",
-				"MetadataOrder/metadataorder/static/js/mule-uploader.js"
-			],
-			[
-				"asset",
-				"MetadataOrder/metadataorder/templates/title/asset.html"
-			],
-			[
-				"ass",
-				"MetadataOrder/metadataorder/templates/home/assets.html"
-			],
-			[
-				"singl",
-				"MetadataOrder/metadataorder/templates/tasks/single_page.html"
-			],
-			[
-				"all.c",
-				"MetadataOrder/metadataorder/static/css/all.css"
-			],
-			[
-				"task_",
-				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
-			],
-			[
-				"add_re",
-				"MetadataOrder/metadataorder/templates/tasks/add_requirements.html"
-			],
-			[
-				"taskrow",
-				"MetadataOrder/metadataorder/templates/tasks/task_table_row.html"
-			],
-			[
-				"task",
-				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
-			],
-			[
-				"his",
-				"MetadataOrder/metadataorder/templates/title/history.html"
-			],
-			[
-				"asse",
-				"MetadataOrder/metadataorder/templates/home/assets.html"
-			],
-			[
-				"title_na",
-				"MetadataOrder/metadataorder/templates/home/title_navigation.html"
-			],
-			[
-				"repo",
-				"MetadataOrder/metadataorder/templates/home/reports.html"
-			],
-			[
-				"notes",
-				"MetadataOrder/metadataorder/templates/order/notes_existing.html"
+				"video_",
+				"newsserver/templates/news/video_detail.html"
 			],
 			[
 				"mode",
-				"MetadataOrder/metadataorder/title/models.py"
+				"newsserver/news/models.py"
 			],
 			[
-				"views",
-				"MetadataOrder/metadataorder/title/views.py"
+				"vide",
+				"newsserver/templates/news/video.html"
 			],
 			[
-				"mod",
-				"MetadataOrder/metadataorder/order/models.py"
+				"newsmodel",
+				"newsserver/news/models.py"
 			],
 			[
-				"hometa",
-				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
-			],
-			[
-				"tasks",
-				"MetadataOrder/metadataorder/templates/tasks/tasks.html"
-			],
-			[
-				"note",
-				"MetadataOrder/metadataorder/templates/order/notes_popup.html"
+				"newsmode",
+				"newsserver/common/models.py"
 			],
 			[
 				"model",
-				"MetadataOrder/metadataorder/tasks/models.py"
+				"newsserver/common/models.py"
 			],
 			[
-				"order_ite",
-				"MetadataOrder/metadataorder/templates/home/order_items.html"
+				"demo",
+				"newsserver/media/assets/js/demo.js"
 			],
 			[
-				"task_i",
-				"MetadataOrder/metadataorder/templates/tasks/task_items.html"
+				"app",
+				"newsserver/media/assets/js/app.js"
 			],
 			[
-				"home_",
-				"MetadataOrder/metadataorder/templates/tasks/home_tasks.html"
+				"view",
+				"newsserver/news/views.py"
 			],
 			[
-				"home.h",
-				"MetadataOrder/metadataorder/templates/home/home.html"
+				"views",
+				"newsserver/news/views.py"
 			],
 			[
-				"tasks.",
-				"MetadataOrder/metadataorder/templates/tasks/tasks.html"
+				"graph",
+				"newsserver/news/graph.py"
 			],
 			[
-				"cus",
-				"MetadataOrder/metadataorder/templates/home/custom_reporting.html"
+				"demo.js",
+				"newsserver/media/assets/js/demo.js"
 			],
 			[
-				"homemod",
-				"MetadataOrder/metadataorder/home/models.py"
+				"das",
+				"newsserver/templates/tim/dashboard.html"
+			],
+			[
+				"new_",
+				"newsserver/templates/new_homepage.html"
+			],
+			[
+				"urls",
+				"newsserver/urls.py"
+			],
+			[
+				"quer",
+				"chai queries"
+			],
+			[
+				"cypher",
+				"dailies/cypher_queries"
+			],
+			[
+				"sett",
+				"newsserver/settings.py"
 			]
 		],
 		"width": 0.0
@@ -1930,26 +349,24 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"~/Dropbox/www/www.sublime-project"
-			],
-			[
-				"it",
-				"~/work/itfin.sublime-workspace"
+				"~/Dropbox/news.sublime-project"
 			]
 		],
 		"width": 380.0
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 354.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 791.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -1959,7 +376,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 262.0,
+	"side_bar_width": 230.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
