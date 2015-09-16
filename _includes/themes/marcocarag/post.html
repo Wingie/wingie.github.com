@@ -2,6 +2,13 @@
   <h1>{{ page.title }}</h1>
   <div class="postCopy">
     <div class="clearfix">
+      {% unless page.image-classes == "fullWidth" %}
+        {% if page.description %}
+          <p class="description">{{ page.description }}</p>
+        {% elsif page.description_paragraphless %}
+          {{ page.description_paragraphless }}
+        {% endif %}
+      {% endunless %}
       {% if page.image-classes == "fullWidth" %}
         {% if page.description %}
           <p class="desc">{{ page.description }}</p>
@@ -32,13 +39,7 @@
       </figure>
       {% endif %}
 
-      {% unless page.image-classes == "fullWidth" %}
-        {% if page.description %}
-          <p class="description">{{ page.description }}</p>
-        {% elsif page.description_paragraphless %}
-          {{ page.description_paragraphless }}
-        {% endif %}
-      {% endunless %}
+      
     </div>
 
     {{ content }}
