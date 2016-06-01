@@ -6,7 +6,7 @@ category: Rants
 tags: [introductions]
 image: "/images/blog.jpg"
 ---
-{% include JB/setup %}
+
 
 ##behold, a new blog has risen.
 

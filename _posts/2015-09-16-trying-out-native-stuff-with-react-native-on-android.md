@@ -8,7 +8,7 @@ category: EngineeringTales
 tags: [ReactNative, Android]
 image: "/images/react.png"
 ---
-{% include JB/setup %}
+
 
 So I started programming react-native-android today. Any new programming languages always get my attention and since i wanted to build a new app for [my pet project](http://wingztv.com). 
 

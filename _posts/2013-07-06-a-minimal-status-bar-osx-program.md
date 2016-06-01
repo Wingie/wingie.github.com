@@ -6,7 +6,7 @@ category: Mac
 tags: [tutorial,OSX,Xcode]
 image: "/images/xcode2.png"
 ---
-{% include JB/setup %}
+
 
 So when you start building a Mac OSX app, there are a bunch of different types of apps that you can build. The one i'm going to build would be basically like a background process. It would have an icon, in the status bar that would act like a medium of control. This appeals to me because basically i want to have the app running all the time.
 

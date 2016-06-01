@@ -5,7 +5,7 @@ description: ""
 category: EngineeringTales
 tags: []
 ---
-{% include JB/setup %}
+
 
 
 given resources:

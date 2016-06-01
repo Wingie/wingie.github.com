@@ -38,4 +38,3 @@ So if you've got that all set up congrats. you are ready for the session.
 Also, feel free to give me a shout out on twitter if you are running into any issues.
 
 
-{% include JB/setup %}

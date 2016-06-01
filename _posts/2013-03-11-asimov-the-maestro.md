@@ -6,7 +6,6 @@ category: SciFi
 tags: [Science Fiction, Asimov]
 image: "/images/asimov2.jpg"
 ---
-{% include JB/setup %}
 
 Asimov's true genius lies in the connections that he builds between his novels. And the surprising thing is if you look through the publication dates of the novels, half of his novels were written in the 1940s and the rest after a 20 year hiatus during the 1980s. And yet, there is no sense of discontinuity or anachronism, no feeling that things were adjusted later to cater to the connection that he was building between his novels (i'm looking at you Lucas). In fact, in looking at `"Author's Note" (pages ix to x) of "Prelude To Foundation"` asimov specifically claims that the `series` if you will was an ad-hoc creation and wasn't planned in any way.
 

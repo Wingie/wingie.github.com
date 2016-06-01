@@ -5,7 +5,7 @@ description: ""
 category: EngineeringTales
 tags: []
 ---
-{% include JB/setup %}
+
 
 So now we are going to train our classifier with our data which is series1_data.csv
 

@@ -6,7 +6,7 @@ category: SciFi
 tags: [Science Fiction, Asimov]
 image: "/images/asimov.jpg"
 ---
-{% include JB/setup %}
+
 
 When i first read Asimov, it seemed to me (little kid though that i was) that there was something in what Asimov had imagined. A truth so simple that it boggled the imagination. The truth was that all great civilization die. Entropy is a force that acts on civilization as simply as if they were a battery source. Genghis Khan, once ruled the largest land empire ever known, and then his empire fell. The Greeks rose in philosophy ,arts and their military went all the way upto India but they fell under the might of Rome. Rome itself would fall soon later, followed by the rise of the church. The Vatican, which at one point had such a powerful political and militaristic structure gave way to the explorers and the rise of the European Colonies. But those fell too. Any organization, cannot last. The same way that  IBM and Yahoo who were once giants and now struggle against the onslaught of google and apple. 
 

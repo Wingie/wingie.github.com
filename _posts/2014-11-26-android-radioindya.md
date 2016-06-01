@@ -116,5 +116,3 @@ i added in two `touch` areas that can be used for pausing/playing and stopping t
 Also a progress bar to see music progress was also done.
 
 ![alt text](/images/app_3.png "What Grinds my Gears.")
-
-{% include JB/setup %}

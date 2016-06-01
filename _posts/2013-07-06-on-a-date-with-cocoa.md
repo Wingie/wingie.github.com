@@ -6,7 +6,6 @@ category: Mac
 tags: [tutorial,OSX,Xcode]
 image: "/images/date.jpg"
 ---
-{% include JB/setup %}
 
 So now, since i managed to get a status bar application working kinda working. The next stage in my evil plan was to get the current date object in cocoa.
 

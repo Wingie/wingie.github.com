@@ -6,7 +6,6 @@ category: EngineeringTales
 tags: []
 image: "/images/spider.jpg"
 ---
-{% include JB/setup %}
 
 So one fine day i started a project with an old friend of mine. We wanted to know if it was possible to build a system that was capable of predicting with a certain degree of accuracy if two nations were going to war.
 

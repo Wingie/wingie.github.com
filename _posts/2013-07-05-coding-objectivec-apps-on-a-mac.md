@@ -6,7 +6,7 @@ category: Mac
 tags: [tutorial,OSX,Xcode]
 image: "/images/xcode.png"
 ---
-{% include JB/setup %}
+
 
 So i've recently got my hands on a new macbook pro, and barring some minor flaws, it's been a serious pleasure to use. 
 I've loved the awesome feel of the keyboard, and the mettalic finish of the trackpad makes even swiping pages on a pdf pretty awesome to use.

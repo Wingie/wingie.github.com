@@ -6,7 +6,7 @@ category: Mac
 tags: [tutorial,OSX,Xcode]
 image: "/images/watch.jpg"
 ---
-{% include JB/setup %}
+
 
 [Seriously?](http://developer.samsung.com/forum/board/thread/view.do?boardName=General&messageId=243848)
 
