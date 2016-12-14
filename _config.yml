@@ -21,3 +21,6 @@ github_username:  wingie
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
